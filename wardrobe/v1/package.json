@@ -1,0 +1,11 @@
+{
+  "name": "kata-wardrobe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-node ../../node_modules/jasmine/bin/jasmine --config=jasmine.json --reporter=jasmine-console-reporter"
+  },
+  "author": "",
+  "license": "ISC"
+}

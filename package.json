@@ -1,0 +1,14 @@
+{
+  "name": "kata",
+  "version": "1.0.0",
+  "description": "kata exercise",
+  "author": "Vittorio Guerriero",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jasmine": "3.4.4",
+    "jasmine": "3.5.0",
+    "jasmine-console-reporter": "3.1.0",
+    "ts-node": "8.4.1",
+    "typescript": "3.6.4"
+  }
+}
