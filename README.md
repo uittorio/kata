@@ -10,6 +10,8 @@ I've divided them by version so I will try to do them again in the future
     - [v1](rover/v1)
 - [wardrobe](wardrobe) 
     - [v1](wardrobe/v1)
+- [ticTacToe](ticTacToe) 
+    - [v1](ticTacToe/v1)
 
 
 ## Install
